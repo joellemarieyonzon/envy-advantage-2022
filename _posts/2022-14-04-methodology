@@ -15,5 +15,6 @@ The OLS model asserts 6 assumptions to derive estimators:
 The OLS model will be a Linear Probability Model that to determine how perceiving an advantage in who individual compares themselves to another affects the likelihood to act in accordance with benign or malicious envy, so it is acceptable to assume linearity. 
 We can rely on the economic theory that OLS is the BLUE (Best Linear Unbiased Estimator) since the trial is randomized. This will result in the smallest normally distributed standard errors, a conditional mean of zero, and the most accurate estimators. 
 Correlation matrices show no signs of collinearity between variables of interest for the model. Breusch-Pagan testing will be performed to test for homoskedasticity.
+
 The regression was followed by a difference-in-means analysis to test for statistically significant differences between variables between conditions. 
 These methods of analysis were performed separately for the 2-point and 5-point difference data as well as the combined data to explore any effect. 
