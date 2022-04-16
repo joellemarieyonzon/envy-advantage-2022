@@ -25,21 +25,20 @@ Advantage      0.0813      0.075      1.090      0.278      -0.066       0.229
 
 
 *Simple OLS Model for 5-Point Difference*                       
-| Dep. Variable:    | Train_Or_Delete  | R-squared:          | 0.003   |         |        |        |
-|-------------------|------------------|---------------------|---------|---------|--------|--------|
-| Model:            | OLS              | Adj. R-squared:     | -0.004  |         |        |        |
-| Method:           | Least Squares    | F-statistic:        | 0.4056  |         |        |        |
-| Date:             | Fri, 15 Apr 2022 | Prob (F-statistic): | 0.525   |         |        |        |
-| Time:             | 16:21:29         | Log-Likelihood:     | -98.643 |         |        |        |
-| No. Observations: | 156              | AIC:                | 201.3   |         |        |        |
-| Df Residuals:     | 154              | BIC:                | 207.4   |         |        |        |
-| Df Model:         | 1                |                     |         |         |        |        |
-| Covariance Type:  | nonrobust        |                     |         |         |        |        |
-|                   |                  |                     |         |         |        |        |
-|                   | coef             | std err             | t       | P>\|t\| | [0.025 | 0.975] |
-| Intercept         | 0.3171           | 0.051               | 6.264   | 0.000   | 0.217  | 0.417  |
-| Advantage         | -0.0468          | 0.073               | -0.637  | 0.525   | -0.192 | 0.098  |
-|                   |                  |                     |         |         |        |        |
+| Dep. Variable:    | Train_Or_Delete |         |        |         | R-squared:          | 0.003   |
+|-------------------|-----------------|---------|--------|---------|---------------------|---------|
+| Model:            | OLS             |         |        |         | Adj. R-squared:     | -0.004  |
+| Method:           | Least Squares   |         |        |         | F-statistic:        | 0.4056  |
+| No. Observations: | 156             |         |        |         | Prob (F-statistic): | 0.525   |
+| Df Residuals:     | 154             |         |        |         | Log-Likelihood:     | -98.643 |
+| Df Model:         | 1               |         |        |         | AIC:                | 201.3   |
+| Covariance Type:  | nonrobust       |         |        |         | BIC:                | 207.4   |
+
+|                   | coef            | std err | t      | P>\|t\| | [0.025              | 0.975]  |
+|-------------------|-----------------|---------|--------|---------|---------------------|---------|
+| Intercept         | 0.3171          | 0.051   | 6.264  | 0.000   | 0.217               | 0.417   |
+| Advantage         | -0.0468         | 0.073   | -0.637 | 0.525   | -0.192              | 0.098   |
+|                   |                 |         |        |         |                     |         |
 
 
 *Simple OLS Model for Combined Data*
