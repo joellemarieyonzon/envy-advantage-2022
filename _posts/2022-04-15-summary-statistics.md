@@ -8,6 +8,7 @@ Political beliefs were largely liberal (47%) with 30% conservatives and 24% mode
 Performance generally improved between the first and second set of matrices. Some participants earned a perfect score in the second set. 
 
 *Distribution of Scores for All Studies*
+
 | Data/Score            | count | mean  | std   | min | 25% | 50% | 75%  | max |
 |-----------------------|-------|-------|-------|-----|-----|-----|------|-----|
 | 2-Point First Score   | 157   | 7.911 | 3.365 | 2   | 5.0 | 8.0 | 10.0 | 15  |
