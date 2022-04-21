@@ -6,6 +6,7 @@ For the 5 and 2-point data, only a 0.37 effect size is possible. For the combine
 Initial statistical testing to determine a difference of choice for between the group assigned a partner with an advantage and the group where the participant was assigned a partner without an advantage shows no statistically significant difference in choices between perceived advantage.
 
 *Statistical Testing for 2-Point Difference*
+
 | Action                | T-stat    | P-Value  |
 |-----------------------|-----------|----------|
 | Beningn or Malicious  | -1.089707 | 0.525154 |
@@ -13,6 +14,7 @@ Initial statistical testing to determine a difference of choice for between the 
 | Malicious or Nothing  | 0.209982  | 0.833957 |
 
 *Statistical Testing for 5-Point Difference*
+
 | Action                | T-stat    | P-Value  |
 |-----------------------|-----------|----------|
 | Beningn or Malicious  | 0.636872  | 0.525154 |
@@ -20,6 +22,7 @@ Initial statistical testing to determine a difference of choice for between the 
 | Malicious or Nothing  | -1.039266 | 0.300310 |
 
 *Statistical Testing for Combined Data*
+
 | Action                | T-stat    | P-Value  |
 |-----------------------|-----------|----------|
 | Beningn or Malicious  | -0.318193 | 0.750552 |
@@ -31,6 +34,7 @@ This possibility was investigated by subsetting the data by performance in the f
 Statistical testing of this data showed that those who scored 7 or higher out of the total of 17 possible points in a 5-point difference chose differently between benign or malicious action.
 
 *Statistical Testing for 5-Point Data Subset by Performance*
+
 | Score  | Choice               | T-stat | P-Value | Reject H0 (95%) |
 |--------|----------------------|--------|---------|-----------------|
 | 3+     | Beningn or Malicious | -0.788 | 0.432   | False           |
@@ -71,6 +75,7 @@ A difference-in-means analysis of this subset showed that only advantage is stat
 Simple regression shows a negative relationship between advantage and choice, which implies that perceiving an advantage in an opponent makes one more likely to act in accordance with malicious envy.
 
 *Balance Table with Adjusted P-Values for 5-Point Difference Subset Score of 7+*
+
 | Variable                                           | No Advantage | Advantage | p-value  | corrected p-value | reject H0 |
 |----------------------------------------------------|--------------|-----------|----------|-------------------|-----------|
 | Advantage                                          | 82.000000    | 74.000000 | 0.000000 | 0.000000          | True      |
@@ -85,6 +90,7 @@ Simple regression shows a negative relationship between advantage and choice, wh
 | Religion_Christian (including Church of England... | 0.719512     | 0.729730  | 0.177896 | 0.682936          | False     |
 
 *OLS Model for 5-Point Difference Subset Score of 7+*
+
 ```text
 ==============================================================================
 Dep. Variable:        Train_Or_Delete   R-squared:                       0.039
