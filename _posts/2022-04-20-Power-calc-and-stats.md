@@ -37,37 +37,37 @@ Statistical testing of this data showed that those who scored 7 or higher out of
 
 | Score  | Choice               | T-stat | P-Value | Reject H0 (95%) |
 |--------|----------------------|--------|---------|-----------------|
-| 3+     | Beningn or Malicious | -0.788 | 0.432   | False           |
+| 3+     | Benign or Malicious | -0.788 | 0.432   | False           |
 |        | Benign or Nothing    | 0.333  | 0.740   | False           |
 |        | Malicious or Nothing | 1.012  | 0.313   | False           |
-| 4+     | Beningn or Malicious | -0.734 | 0.464   | False           |
+| 4+     | Benign or Malicious | -0.734 | 0.464   | False           |
 |        | Benign or Nothing    | 0.343  | 0.732   | False           |
 |        | Malicious or Nothing | 1.021  | 0.309   | False           |
-| 5+     | Beningn or Malicious | -1.015 | 0.312   | False           |
+| 5+     | Benign or Malicious | -1.015 | 0.312   | False           |
 |        | Benign or Nothing    | 0.842  | 0.402   | False           |
 |        | Malicious or Nothing | 0.623  | 0.534   | False           |
-| 6+     | Beningn or Malicious | -0.913 | 0.364   | False           |
+| 6+     | Benign or Malicious | -0.913 | 0.364   | False           |
 |        | Benign or Nothing    | 1.749  | 0.083   | False           |
 |        | Malicious or Nothing | 1.510  | 0.134   | False           |
 | 7+     | Beningn or Malicious | -1.789 | 0.078   | False           |
 |        | Benign or Nothing    | 2.189  | 0.032   | True            |
 |        | Malicious or Nothing | 2.366  | 0.020   | True            |
-| 8+     | Beningn or Malicious | -1.241 | 0.220   | False           |
+| 8+     | Benign or Malicious | -1.241 | 0.220   | False           |
 |        | Benign or Nothing    | 1.018  | 0.314   | False           |
 |        | Malicious or Nothing | 2.031  | 0.048   | True            |
-| 9+     | Beningn or Malicious | -0.178 | 0.860   | False           |
+| 9+     | Benign or Malicious | -0.178 | 0.860   | False           |
 |        | Benign or Nothing    | 0.671  | 0.507   | False           |
 |        | Malicious or Nothing | 1.757  | 0.088   | False           |
-| 10+    | Beningn or Malicious | 0.309  | 0.760   | False           |
+| 10+    | Benign or Malicious | 0.309  | 0.760   | False           |
 |        | Benign or Nothing    | -0.075 | 0.941   | False           |
 |        | Malicious or Nothing | 0.250  | 0.805   | False           |
 | 11+    | Beningn or Malicious | -0.398 | 0.699   | False           |
 |        | Benign or Nothing    | -0.398 | 0.699   | False           |
 |        | Malicious or Nothing | 0.000  | 1.000   | False           |
-| 12+    | Beningn or Malicious | 0.516  | 0.633   | False           |
+| 12+    | Benign or Malicious | 0.516  | 0.633   | False           |
 |        | Benign or Nothing    | 0.000  | 1.000   | False           |
 |        | Malicious or Nothing | 0.516  | 0.633   | False           |
-| 13+    | Beningn or Malicious | 1.000  | 0.423   | False           |
+| 13+    | Benign or Malicious | 1.000  | 0.423   | False           |
 |        | Benign or Nothing    | 0.000  | 1.000   | False           |
 |        | Malicious or Nothing | 0.000  | 1.000   | False           |
 
